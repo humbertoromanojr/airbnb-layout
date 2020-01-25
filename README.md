@@ -27,8 +27,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://opens
 
 ## Demonstration
 <div align="center">
-  <img src="https://i.ibb.co/LPk40kt/airBnb.jpg" alt="airBnb" border="0" width="250">
-  <img src="https://i.ibb.co/7rFM6Cp/airBnb2.jpg" alt="airBnb2" border="0" width="250">
-  <img src="https://i.ibb.co/LPk40kt/airBnb.jpg" alt="airBnb" border="0" width="250">
-  <img src="https://i.ibb.co/7rFM6Cp/airBnb2.jpg" alt="airBnb2" border="0" width="250">
+  <img src="https://i.ibb.co/LPk40kt/airBnb.jpg" alt="airBnb" border="0" width="400">
+  <img src="https://i.ibb.co/7rFM6Cp/airBnb2.jpg" alt="airBnb2" border="0" width="400">
+  <img src="https://i.ibb.co/LPk40kt/airBnb.jpg" alt="airBnb" border="0" width="400">
+  <img src="https://i.ibb.co/7rFM6Cp/airBnb2.jpg" alt="airBnb2" border="0" width="400">
 </div>
